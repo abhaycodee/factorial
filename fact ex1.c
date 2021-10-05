@@ -4,7 +4,7 @@ int main(){
 	
 int number,i;// take two variable of integer type
 int fact=1;// initialise value of fact by 1
-printf("enter the number which you want favtorial\n");
+printf("enter the number which you want factorial\n");
 scanf("%d",&number);
 for(i=number;i>1;i--)
 {
